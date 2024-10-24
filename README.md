@@ -6,7 +6,7 @@
 Hello y'all. Welcome to my GitHub portfolio!! <br>
 My name is <b>Yosef Pineda</b>, and I am currently pursuing my Bachelor's Degree in Computer Science at Arizona State University. 🔱 <br>
 I am a tech enthusiast and open to collaborating on new projects!<br>
-Feel free to shoot me an email;to <b>yosefpineda@outlook.com</b><br>
+Feel free to shoot me an email to <b>yosefpineda@outlook.com</b><br>
 
 
 
